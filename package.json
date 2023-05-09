@@ -1,0 +1,9 @@
+{
+  "name": "@dmquinn/prettier-config",
+  "version": "1.0.0",
+  "description": "Shared configuration for prttier",
+  "main": "index.json",
+  "repository": "git@github.com:dmquinn/sharedConfig.git",
+  "author": "Daniel Murphy",
+  "license": "MIT"
+}
