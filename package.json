@@ -1,9 +1,30 @@
 {
-    "name": "@dmquinn/prettier-config",
-    "version": "1.0.0",
-    "description": "Shared configuration for prttier",
-    "main": "prettier.config.js",
-    "repository": "git@github.com:dmquinn/sharedConfig.git",
-    "author": "Daniel Murphy",
-    "license": "MIT"
+  "name": "bd24-shared-codestyle-config",
+  "version": "1.0.2",
+  "description": "Shared configuration for esLint & prttier",
+  "main": "index.js",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js",
+    "src"
+  ],
+  "peerDependencies": {
+    "eslint": "^7.23.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-react": "^7.23.1",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "prettier": "^2.2.1"
+  },
+  "author": "Daniel Murphy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/dmquinn/sharedConfig"
+  },
+  "homepage": "https://www.github.com/dmquinn/sharedConfig"
 }
