@@ -1,6 +1,6 @@
 {
   "name": "bd24-shared-codestyle-config",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Shared configuration for esLint & prttier",
   "main": "index.js",
   "files": [

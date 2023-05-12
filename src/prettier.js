@@ -3,7 +3,7 @@ module.exports = {
     'error',
     {
       trailingComma: 'es5',
-      tabWidth: 4,
+      tabWidth: 0,
       semi: false,
       jsxSingleQuote: true,
       printWidth: 90,
